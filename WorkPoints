@@ -1,0 +1,23 @@
+
+
+link for hitting the google api - https://api.dictionaryapi.dev/api/v2/entries/<language_code>/<word>
+link for references  - https://dictionaryapi.dev/
+
+
+
+check how to hit a endpoint for google api
+    extract data from the json response
+        1. the definition
+        2. the mp3 for the vocabulary
+        3. Show different result of usage or ext.
+
+
+speech recognition system
+    convert speech to text
+    specify the format in which user will ask query
+    extract the word to get the meanings
+
+
+
+Feature - add the language also for which the word is searching
+          then specify the format for the new query.

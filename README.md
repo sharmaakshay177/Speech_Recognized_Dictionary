@@ -6,8 +6,6 @@ then extract the word from that sentence and then pass that word to form a Url t
 
 The response part consist for the links to speech and the meaning of the word with part of speech, definition and example.
 
-# *Happy to see multiple additions to this.*
-
 ## Respose message example:
 
 [{'word': 'convey', 
@@ -39,3 +37,5 @@ INFO:root: audio item extracted https://lex-audio.useremarkable.com/mp3/xconvey_
 INFO:root:Extracting meaning from json data
 INFO:root:meaning list passed [{'partOfSpeech': 'transitive verb', 'definitions': [{'definition': 'Transport or carry to a place.', 'example': 'pipes were laid to convey water to the house', 'synonyms': ['transport', 'carry', 'bring', 'take', 'fetch', 'bear', 'move', 'ferry', 'shuttle', 'shift', 'transfer']}]}]
 INFO:root:definition dict created is {'transitive verb': [{'definition': 'Transport or carry to a place.', 'example': 'pipes were laid to convey water to the house', 'synonyms': ['transport', 'carry', 'bring', 'take', 'fetch', 'bear', 'move', 'ferry', 'shuttle', 'shift', 'transfer']}]}
+
+# *Happy to see additions to this.*
